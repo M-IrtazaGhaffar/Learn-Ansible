@@ -4,30 +4,6 @@ Ansible is an **agentless automation tool**: you install it on a single **contro
 
 ---
 
-## Table of Contents
-
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
----
-
 ## 1) Install Ansible (control node)
 
 The official docs describe installing either:
